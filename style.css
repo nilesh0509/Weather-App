@@ -105,6 +105,12 @@ input[type="text"] {
     opacity: 0.9;
 }
 
+.city-date-section .country-code {
+    font-size: 1.5rem;
+    color: #ecf0f1; 
+    margin-top: 5px;
+}
+
 .city-date-section .date {
     background-color: #c3eaf4;
     padding: 5px 10px;
