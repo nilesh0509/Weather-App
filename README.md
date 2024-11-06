@@ -1,10 +1,17 @@
-# Weather-App
-![image](https://github.com/user-attachments/assets/e83f7680-5ed3-4132-89d5-e492800b2e63)
+
 
 # 🌦️ Weather App
+![Weather App](https://img.shields.io/badge/Project-Weather%20App-brightgreen) ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+
 Welcome to the Weather App 🌍! This weather application provides current weather information for any city worldwide. With a simple interface, it displays temperature, humidity, wind speed, visibility, and weather conditions at your fingertips. 🌞🌧️🌩️
 
-<!-- Add an actual screenshot of your app in the `assets` folder -->
+## 📸 Preview
+
+![Weather App Preview](https://github.com/user-attachments/assets/e83f7680-5ed3-4132-89d5-e492800b2e63)  
+*Preview of theWeather App in action*
+
+
+
 # 🚀 Features
 - **Search for any city:** Enter any city name and get instant weather details.
 - **Display of Key Weather Data:** See temperature, humidity, wind speed, and visibility.
@@ -19,7 +26,8 @@ Welcome to the Weather App 🌍! This weather application provides current weath
 - **OpenWeather API -** Fetching weather data based on city.
 
 # 🖥️ Demo
-View a live demo of this project here 
+Check out the live version of this project [here](https://nilesh0509.github.io/Weather-App/) .
+
 
 # 📖 Usage
 **1. Search for a City:** Enter a city name in the search bar and click the search button. Weather information will appear immediately.  
